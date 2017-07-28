@@ -1,0 +1,4 @@
+networkx>=1.11.0
+nltk>=3.2.1
+numpy>=1.11.2
+click>=6.6

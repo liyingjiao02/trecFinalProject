@@ -1,0 +1,9 @@
+main.py
+setup.py
+textrank/__init__.py
+textrank.egg-info/PKG-INFO
+textrank.egg-info/SOURCES.txt
+textrank.egg-info/dependency_links.txt
+textrank.egg-info/entry_points.txt
+textrank.egg-info/requires.txt
+textrank.egg-info/top_level.txt
